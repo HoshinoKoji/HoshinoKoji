@@ -17,4 +17,6 @@ Here are some ideas to get you started:
 
 ### 🔭 I’m currently working on ...
 
-- The Faculty of Psychology, Beijing Normal University
+- Undergraduate, The Faculty of Psychology, Beijing Normal University
+
+- Amateur Python/Web developing
