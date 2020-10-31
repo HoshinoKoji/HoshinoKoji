@@ -15,8 +15,14 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### 🔭 I’m currently working on ...
+## 🔭 I’m currently working on ...
 
 - Undergraduate, The Faculty of Psychology, Beijing Normal University
 
 - Amateur Python/Web developing
+
+## 📫 How to reach me: ...
+
+- guangyu_deng@163.com
+
+- 201911061185@mail.bnu.edu.cn
