@@ -26,3 +26,5 @@ Here are some ideas to get you started:
 - guangyu_deng@163.com
 
 - 201911061185@mail.bnu.edu.cn
+
+- charabkick11@gmail.com
